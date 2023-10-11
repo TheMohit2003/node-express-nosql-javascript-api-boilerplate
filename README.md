@@ -2,6 +2,7 @@
 
 This is a boilerplate project for building a Node.js API with a NoSQL database and Express.js framework.
 
+
 ## Getting Started
 
 To get started with this boilerplate, follow these steps:
@@ -36,4 +37,3 @@ This boilerplate includes the following API endpoints:
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
